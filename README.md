@@ -1,4 +1,4 @@
-#Instructions to setup a Hyperledger Indy Node
+##Instructions to setup a Hyperledger Indy Node
 
 Clone repo and setup the Indy Pool
 
